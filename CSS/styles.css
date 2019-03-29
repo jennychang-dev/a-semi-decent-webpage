@@ -1,0 +1,104 @@
+h1 {
+  text-align: center;
+  font-family: courier;
+  font-size: 300;
+  padding-top: 1em;
+}
+
+h3 {
+  font-size: 150;
+  font-family: courier;
+  padding-left: 1.2em;
+}
+
+p {
+  font-family: courier;
+  font-size: 50;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+}
+
+#projectnames {
+  font-family: courier;
+  font-size: 200;
+  color: white;
+  text-align: center;
+  background-color: black;
+  border-radius: 25px;
+  padding: 0.8em;
+  width: 150px;
+  /* margin-left: 10px; */
+  /* width: 130px; */
+}
+
+.pulseimg img {
+  height: auto;
+  width: 15%;
+  padding: 1em;
+  margin: 5px;
+  border: 1px solid;
+}
+
+.intro {
+  font-family: courier;
+  font-size: 20px;
+  position:absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+.hostviewimage img {
+  width:20%;
+  height:auto;
+  margin-right:3%;
+  float:left;
+  border: 2px solid;
+  border-color: black;
+  margin-left:1%;
+}
+
+.hostviewtext {
+  width:20%;
+  float:left;
+}
+
+#scroll {
+  font-family: courier;
+  font-size: 15px;
+  position:absolute;
+  top:48%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  background-color: black;
+  color: white;
+  padding: 1em;
+}
+
+
+hr {
+  border-color: black;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 20%;
+}
+
+#recordview {
+  padding-left: 10em;
+  float:left;
+}
+
+span {
+  margin-left: 200px;
+}
+
+body {
+  background-color: #f6f5f5;
+}
+
+.navbar {
+  background-color:black;
+  height: 200px;
+  width: 100%;
+}
